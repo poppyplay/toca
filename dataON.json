@@ -7,13 +7,13 @@
         "NetworkAds": "mix",
         "AdMobId": "ca-app-pub-6407915308889518~5816529420",
 
-        "BannerAdmob": "ca-app-pub-6407915308889518/9372631054",
-        "InterstitialAdmob": "ca-app-pub-6407915308889518/7297132057",
-        "NativeAdmob": "ca-app-pub-6407915308889518/1055157332",
+        "BannerAdmob": "ca-app-pub-dd/9372631054",
+        "InterstitialAdmob": "ca-app-pub-dd/7297132057",
+        "NativeAdmob": "ca-app-pub-d/1055157332",
 
-        "BannerFacebook": "2443649742433747_2443650312433690",
-        "InterstitialFacebook": "2443649742433747_2443650545767000",
-        "NativeFacebook": "2443649742433747_2443650765766978"
+        "BannerFacebook": "",
+        "InterstitialFacebook": "",
+        "NativeFacebook": ""
 
       }
     ],
