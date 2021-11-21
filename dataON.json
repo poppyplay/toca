@@ -1,0 +1,409 @@
+{
+  "GuideData": {
+
+
+    "AdsController": [
+      {
+        "NetworkAds": "mix",
+        "AdMobId": "ca-app-pub-6407915308889518~5816529420",
+
+        "BannerAdmob": "ca-app-pub-6407915308889518/9372631054",
+        "InterstitialAdmob": "ca-app-pub-6407915308889518/7297132057",
+        "NativeAdmob": "ca-app-pub-6407915308889518/1055157332",
+
+        "BannerFacebook": "2443649742433747_2443650312433690",
+        "InterstitialFacebook": "2443649742433747_2443650545767000",
+        "NativeFacebook": "2443649742433747_2443650765766978"
+
+      }
+    ],
+
+  
+  "items": [
+      
+      {
+        "title": "",
+        "image": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470577.jpg"
+      },
+       {
+        "title": "",
+        "image": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470593.jpg"
+      },
+        {
+        "title": "",
+        "image": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470608.jpg"
+      },
+      {
+        "title": "",
+        "image": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470624.jpg"
+      },
+      {
+        "title": "",
+        "image": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470640.jpg"
+      },
+       {
+        "title": "",
+        "image": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470655.jpg"
+         },
+       {
+        "title": "",
+        "image": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470671.jpg"
+         },
+       {
+        "title": "",
+        "image": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470686.jpg"
+         },
+       {
+        "title": "",
+        "image": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470702.jpg"
+         },
+       {
+        "title": "",
+        "image": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470718.jpg"
+         },
+       {
+        "title": "",
+        "image": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470733.jpg"
+         },
+       {
+        "title": "",
+        "image": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470749.jpg"
+      }
+    ],
+
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Intro",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470593.jpg",
+        "text": " Some overlap exists between Hello Neighbor Acts II and III. If you haven't yet finished the in-between segment taking place in a different time, walk into your house for a cutscene, then grab the green key out of the car trunk to access the neighbor's house and pick up the phone. With that out of the way, it's time to get started back on the regular gameplay.
+
+First, grab any small, throwable item (such as the VHS tape in your house) and two boxes. There are again boxes in the closet of your house, or you can find some outside in the neighbor's yard.",
+        "isNative": "true"
+      }
+    ],
+    
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": " Tips ",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "Download new sport streaming app ","setLink": "",
+        "image_link": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470608.jpg",
+        "text": " Break the window directly next to you and head inside the house. Immediately turn left and enter the door that was opened by the switch, which leads to several long sets of ladders going up.
+
+Go up the first two ladders to a landing platform, then pull the red switch above the door. Head inside to find the rollercoaster track. Were not going on this section quite yet, though. Instead, go down the red staircase to your right, and open the door to your left at the bottom of the stairs.
+
+Looking down through the open door, you should see empty space leading to part of the track and a window far across. If you step down onto the track, you should see a hole just in front of the window that you can jump into.",
+        "isNative": "true"
+      }
+    ],
+    
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470624.jpg",
+        "text": "",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "click to enter ","setLink": "",
+        "image_link": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470640.jpg",
+        "text": "Jumping through the hole takes you to the roller coaster track control room. Flip the switch on the far left side of the control panel (be careful not to move too far over and fall through the hole), then push the red button to the right to start the track running.
+
+After pressing the button, jump through the hole in the floor right in front of the control panel to return to the yard. Head back into the house through the same window you broke before, and go up the stairs to your right near the cluttered hallway (if you are entering through the front door instead, go to the back of the house, and the stairs will be on your left).
+
+On the second floor, up the stairs, you will see a gated-off portion of the room. To get past the gate, jump up onto the wood railing, then turn and jump onto the lamp on the opposite wall.",
+        "isNative": "true"
+      }
+    ],
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Tips",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "click to watch","setLink": "",
+        "image_link": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470655.jpg",
+        "text": "From there, turn around again, and you should see an open section of floor you can safely reach with a jump.
+
+You can pull the switch on the wall if you want, which opens the gate so you dont have to do the jumping puzzle again, although this does mean the neighbor will also be able to patrol the area more easily.
+
+Use the boxes in this room to make a tower so you can reach the paintings on the left wall. Interact with the painting of the apple at the top near the ceiling to turn it sideways (just press E instead of holding it to pick up the painting), which opens a ramp back on the other side of the gate.",
+        "isNative": "true"
+      }
+    ],
+    "content5": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Tips",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "click here","setLink": "",
+        "image_link": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470671.jpg",
+        "text": "Run up the painting ramp, then head up the stairs and ramps until you reach the top floor, where you can see a candy cane-striped entrance with a No Guns sign.
+
+Head inside, then take the door on the right, and the next door on the right, until you reach a room with more metal bars blocking off part of the room. We arent actually going to get past them this time, though.
+
+Ignore the wall fence and instead grab the shoe off the shelf, then turn back around towards the bars to find a box with a switch on the wall.
+
+You cant open the box, but if you hold down right click to wind up a throw for the shoe, you can launch it through the grating into the box on the right side, holding the lever into the open position.",
+        "isNative": "true"
+      }
+    ],
+    "content6": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470686.jpg",
+        "text": "Tips",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "click to watch","setLink": "",
+        "image_link": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470702.jpg",
+        "text": " Run back into the previous room, where another sealed box will now be open, letting you grab a red key. It's easy to accidentally mess up this segment, so if the shoe doesn't move the lever over, just grab something else like the binoculars off the shelf and try again.
+
+Go back into the room with the metal fence, and open the door on the left to find a new room where a door is held closed by a chair. Pull off the chair and open the door, but don't step forward, as you will fall to the lower floor.
+
+Instead, open the breaker to your right to find a red-hot crowbar. Grab the crowbar, which will immediately fall, as it is too hot to hold. ",
+        "isNative": "true"
+      }
+    ],
+    "content7": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470718.jpg",
+        "text": "Tips",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "click to watch ","setLink": "",
+        "image_link": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470733.jpg",
+        "text": "We'll have to do something about the crowbar being heated up, but first jump down into the lower room and grab the umbrella off the floor.
+
+With the umbrella in hand, jump through the square hole next to the couch to enter a strange room with a half-open wall to your right.
+
+Look through the hole and search the bookcase to find a barely visible magnet. Grab that, as you will need it to pick up a metal object.",
+        "isNative": "true"
+      }
+    ],
+"content8": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470764.jpg",
+        "text": "tips",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "click to watch ","setLink": "",
+        "image_link": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470780.jpg",
+        "text": " Now, head back into the room where the crowbar dropped. There should be several routes there now, as you have opened the ramp and unlocked the doors.
+
+When you get back to the room, use the magnet to pick up the crowbar by holding left click while pointing at the crowbar with the magnet in your current inventory slot.",
+        "isNative": "true"
+      }
+    ],
+     "content9": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470796.jpg",
+        "text": "Tips",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "click to watch","setLink": "",
+        "image_link": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470811.jpg",
+        "text": "Go back down through the square hole next to the couch to again enter the room where you found the magnet. This time, throw the switch on the wall and go through the metal fence when it opens. There's a key on the box in this room you can use to explore another area, but it isn't required to complete the act.
+
+Head through the door right in front of you (ignore the doors on the right and left sides of this room) to enter the bathroom. Turn on the shower and hold the glowing hot crowbar under the stream of water. After a few seconds, it will cool down so you can hold and use the tool (finally)..",
+        "isNative": "true"
+      }
+    ],
+    "content10": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470827.jpg",
+        "text": "tips",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "click to watch","setLink": "",
+        "image_link": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470842.jpg",
+        "text": "Pick up the cooled crowbar so it goes in your inventory, then head back out into the hallway. Turn left, then remove the chair and open that door to enter a room with a large chair and a bunch of television monitors.
+
+Open the drawer underneath the TVs, and you should hear a click. Head to the right side of the room and open the door on the floor to jump down to the ground level.
+
+Go through the door to your right to return to the main ground floor room. Here you can use the crowbar to remove the bolts holding the boards in place that restrict access to the basement.",
+        "isNative": "true"
+      }
+    ],
+    "content11": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470858.jpg",
+        "text": "Tips ",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "click to watch","setLink": "",
+        "image_link": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470874.jpg",
+        "text": "Although the chair and boards are removed, you still need a keycard to open the electronic lock to the basement. Make sure you still have the umbrella in your inventory, and return to that long series of ladders you used way back at the beginning. 
+
+Go back through the door you opened with the switch to return to the room with the track. If the trolley is there, wait for it to pass. Otherwise, walk forward out onto the track and into the area outside the house.",
+        "isNative": "true"
+      }
+    ],
+    "content12": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470889.jpg",
+        "text": "outro",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "click to watch ","setLink": "",
+        "image_link": "https://guides.gamepressure.com/hello_neighbor/gfx/word/613470920.jpg",
+        "text": "Run down the track until you re-enter the house and can turn into a room on your right.
+
+You have to time this part carefully so you don't get hit by the trolley, as it may be close to you when you get to this section. If you have trouble, wait for the trolley to reach you, then go right after it leaves.
+
+Don't forget that the umbrella slows your fall if you press left click while holding it, so you can actually use it to jump out of the way if the trolley is hurtling towards you.
+
+Stand in the side room until the trolley slows down and stops in front of you. Open up the door and hop inside to take a ride across the track..",
+        "isNative": "true"
+      }
+    ]
+  }
+}
